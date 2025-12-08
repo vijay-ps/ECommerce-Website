@@ -1,7 +1,5 @@
 # 🛒 Gro-Mart – Full Stack E-Commerce Application
 
-Live URL: **https://gro-mart.vercel.app/**  
-Tech Stack: **React + Node.js + Express + MongoDB + JWT + Stripe Payments**
 
 Gro-Mart is a fully functional, production-grade **E-Commerce platform** built with the MERN stack.  
 It includes secure authentication, product management, cart system, Stripe payments, and an end-to-end order workflow.
