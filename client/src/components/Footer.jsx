@@ -42,7 +42,7 @@ const Footer = () => (
       </div>
     </div>
     <p className="py-4 text-center text-sm md:text-base text-gray-500/80">
-      Copyright {new Date().getFullYear()} © Mahesh Miythran B K | All rights reserved.
+      Copyright {new Date().getFullYear()} © PS Vijay | All rights reserved.
     </p>
   </div>
 );
